@@ -1,0 +1,1 @@
+A Python project that detects age and gender from faces using OpenCV and Caffe models. This repository contains the necessary models and test images for age and gender prediction. The project utilizes OpenCV's face detection capabilities and Caffe's deep learning models for age and gender estimation.
